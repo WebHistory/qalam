@@ -1,4 +1,4 @@
-<div style="direction:rtl">
+<div dir="rtl">
 #جعبه ابزار قلم
 
 ##ابزار قلم
